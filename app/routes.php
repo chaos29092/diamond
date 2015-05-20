@@ -12,7 +12,7 @@ Route::get('priceok', 'PageController@priceok');
 Route::get('colordevice', 'PageController@colorDevice');
 Route::get('nocolordevice', 'PageController@nocolorDevice');
 
-Route::get('colordevice/laptop', 'ProductController@colorLaptop');
+Route::get('products/diamond', 'ProductController@colorLaptop');
 Route::get('colordevice/portable', 'ProductController@colorPortable');
 Route::get('colordevice/ipad', 'ProductController@colorIpad');
 Route::get('nocolordevice/laptop', 'ProductController@nocolorLaptop');

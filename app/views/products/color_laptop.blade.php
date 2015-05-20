@@ -82,20 +82,52 @@
                 <div class="tab_container">
                     <div class="tab_container_in">
                         <!-- Recent Articles -->
+                        <br/>
+                        <h4>{{Lang::get('page.quick_detal')}}</h4><br />
                         <div id="tab_sidebar_recent" class="tab_sidebar_list">
+
+                            <div class="aditional_info">
+
+                                <ul>
+                                    <li class="bold title">{{Lang::get('page.dia_ul_1')}}</li>
+                                    <li class="desc">{{Lang::get('page.dia_li_1')}}</li>
+                                </ul>
+                                <ul>
+                                    <li class="bold title">{{Lang::get('page.dia_ul_2')}}</li>
+                                    <li class="desc">{{Lang::get('page.dia_li_2')}}</li>
+                                </ul>
+                                <ul>
+                                    <li class="bold title">{{Lang::get('page.dia_ul_3')}}</li>
+                                    <li class="desc">{{Lang::get('page.dia_li_3')}}</li>
+                                </ul>
+                                <ul>
+                                    <li class="bold title">{{Lang::get('page.dia_ul_4')}}</li>
+                                    <li class="desc">{{Lang::get('page.dia_li_4')}}</li>
+                                </ul>
+                                <ul>
+                                    <li class="bold title">{{Lang::get('page.dia_ul_5')}}</li>
+                                    <li class="desc">{{Lang::get('page.dia_li_5')}}</li>
+                                </ul>
+                                <ul>
+                                    <li class="bold title">{{Lang::get('page.dia_ul_6')}}</li>
+                                    <li class="desc">{{Lang::get('page.dia_li_6')}}</li>
+                                </ul>
+                                <ul>
+                                    <li class="bold title">{{Lang::get('page.dia_ul_7')}}</li>
+                                    <li class="desc">{{Lang::get('page.dia_li_7')}}</li>
+                                </ul>
+                            </div>
+                            <div class="clear"></div>
+                            <br/><br/>
                             <h4>{{Lang::get('page.features')}}</h4><br />
-                            <p>{{Lang::get('page.cl_des')}}</p>
                             <br/>
-                            <p class="des">{{Lang::get('page.cl_dess')}}</p>
+                            <p class="des">1. {{Lang::get('page.dia_des_1')}}</p>
+                            <p class="des">2. {{Lang::get('page.dia_des_2')}}</p>
+                            <p class="des">3. {{Lang::get('page.dia_des_3')}}</p>
+                            <p class="des">4. {{Lang::get('page.dia_des_4')}}</p>
+                            <p class="des">5. {{Lang::get('page.dia_des_5')}}</p>
                             <br/>
-                            <p class="des">1. {{Lang::get('page.cl_des_1')}}</p>
-                            <p class="des">2. {{Lang::get('page.cl_des_2')}}</p>
-                            <p class="des">3. {{Lang::get('page.cl_des_3')}}</p>
-                            <p class="des">4. {{Lang::get('page.cl_des_4')}}</p>
-                            <p class="des">5. {{Lang::get('page.cl_des_5')}}</p>
-                            <p class="des">6. {{Lang::get('page.cl_des_6')}}</p>
-                            <p class="des">7. {{Lang::get('page.cl_des_7')}}</p>
-                            <p class="des">8. {{Lang::get('page.cl_des_8')}}</p>
+                            <p class="des">{{Lang::get('page.dia_des_6')}}</p>
                             <br/>
                             <img src="{{asset('images\products\colorlaptop\colorlaptop_d_1.jpg')}}" alt="{{Lang::get('page.colorlaptop')}} 1"/>
                             <br/><br/>
@@ -103,13 +135,6 @@
                             <br/><br/>
                             <img src="{{asset('images\products\colorlaptop\colorlaptop_d_3.jpg')}}" alt="{{Lang::get('page.colorlaptop')}} 3"/>
                             <br/><br/>
-                            <img src="{{asset('images\products\colorlaptop\colorlaptop_d_4.jpg')}}" alt="{{Lang::get('page.colorlaptop')}} 4"/>
-                            <br/><br/>
-                            <img src="{{asset('images\products\colorlaptop\colorlaptop_d_5.jpg')}}" alt="{{Lang::get('page.colorlaptop')}} 5"/>
-                            <br/><br/>
-                            <img src="{{asset('images\products\colorlaptop\colorlaptop_d_6.jpg')}}" alt="{{Lang::get('page.colorlaptop')}} 6"/>
-                            <br/><br/>
-                            <img src="{{asset('images\products\colorlaptop\colorlaptop_d_7.jpg')}}" alt="{{Lang::get('page.colorlaptop')}} 7"/>
                         </div>
                         <!-- END -->
 
@@ -118,92 +143,34 @@
                         <!-- Recent Comments -->
                         <div id="tab_sidebar_comments" class="tab_sidebar_list">
                             <div class="aditional_info">
+
                                 <ul>
-                                    <li class="bold title">{{Lang::get('page.ci_ul_1')}}</li>
-                                    <li class="desc">
-                                        <p>{{Lang::get('page.ci_li_1_1')}}</p>
-                                        <p>{{Lang::get('page.ci_li_1_2')}}</p>
-                                        <p>{{Lang::get('page.ci_li_1_3')}}</p>
-                                        <p>{{Lang::get('page.ci_li_1_4')}}</p>
-                                        <p>{{Lang::get('page.ci_li_1_5')}}</p>
-                                        <p>{{Lang::get('page.ci_li_1_6')}}</p>
-                                        <p>{{Lang::get('page.ci_li_1_7')}}</p>
-                                        <p>{{Lang::get('page.ci_li_1_8')}}</p>
-                                        <p>{{Lang::get('page.ci_li_1_9')}}</p>
-                                    </li>
+                                    <li class="bold title">{{Lang::get('page.dia_ul_1')}}</li>
+                                    <li class="desc">{{Lang::get('page.dia_li_1')}}</li>
                                 </ul>
                                 <ul>
-                                    <li class="bold title">{{Lang::get('page.ci_ul_2')}}</li>
-                                    <li class="desc">{{Lang::get('page.ci_li_2')}}</li>
+                                    <li class="bold title">{{Lang::get('page.dia_ul_2')}}</li>
+                                    <li class="desc">{{Lang::get('page.dia_li_2')}}</li>
                                 </ul>
                                 <ul>
-                                    <li class="bold title">{{Lang::get('page.ci_ul_3')}}</li>
-                                    <li class="desc">
-                                        <p>{{Lang::get('page.ci_li_3_1')}}</p>
-                                        <p>{{Lang::get('page.ci_li_3_2')}}</p>
-                                        <p>{{Lang::get('page.ci_li_3_3')}}</p>
-                                        <p>{{Lang::get('page.ci_li_3_4')}}</p>
-                                        <p>{{Lang::get('page.ci_li_3_5')}}</p>
-                                        <p>{{Lang::get('page.ci_li_3_6')}}</p>
-                                        <p>{{Lang::get('page.ci_li_3_7')}}</p>
-                                        <p>{{Lang::get('page.ci_li_3_8')}}</p>
-                                        <p>{{Lang::get('page.ci_li_3_9')}}</p>
-                                        <p>{{Lang::get('page.ci_li_3_10')}}</p>
-                                        <p>{{Lang::get('page.ci_li_3_11')}}</p>
-                                        <p>{{Lang::get('page.ci_li_3_12')}}</p>
-                                    </li>
+                                    <li class="bold title">{{Lang::get('page.dia_ul_3')}}</li>
+                                    <li class="desc">{{Lang::get('page.dia_li_3')}}</li>
                                 </ul>
                                 <ul>
-                                    <li class="bold title">{{Lang::get('page.ci_ul_4')}}</li>
-                                    <li class="desc">
-                                        <p>{{Lang::get('page.ci_li_4_1')}}</p>
-                                        <p>{{Lang::get('page.ci_li_4_2')}}</p>
-                                        <p>{{Lang::get('page.ci_li_4_3')}}</p>
-                                        <p>{{Lang::get('page.ci_li_4_4')}}</p>
-                                        <p>{{Lang::get('page.ci_li_4_5')}}</p>
-                                        <p>{{Lang::get('page.ci_li_4_6')}}</p>
-                                        <p>{{Lang::get('page.ci_li_4_7')}}</p>
-                                    </li>
+                                    <li class="bold title">{{Lang::get('page.dia_ul_4')}}</li>
+                                    <li class="desc">{{Lang::get('page.dia_li_4')}}</li>
                                 </ul>
                                 <ul>
-                                    <li class="bold title">{{Lang::get('page.ci_ul_5')}}</li>
-                                    <li class="desc">
-                                        <p>{{Lang::get('page.ci_li_5_1')}}</p>
-                                        <p>{{Lang::get('page.ci_li_5_2')}}</p>
-                                        <p>{{Lang::get('page.ci_li_5_3')}}</p>
-                                        <p>{{Lang::get('page.ci_li_5_4')}}</p>
-                                        <p>{{Lang::get('page.ci_li_5_5')}}</p>
-                                        <p>{{Lang::get('page.ci_li_5_6')}}</p>
-                                        <p>{{Lang::get('page.ci_li_5_7')}}</p>
-                                        <p>{{Lang::get('page.ci_li_5_8')}}</p>
-                                        <p>{{Lang::get('page.ci_li_5_9')}}</p>
-                                        <p>{{Lang::get('page.ci_li_5_10')}}</p>
-                                        <p>{{Lang::get('page.ci_li_5_11')}}</p>
-                                        <p>{{Lang::get('page.ci_li_5_12')}}</p>
-                                        <p>{{Lang::get('page.ci_li_5_13')}}</p>
-                                        <p>{{Lang::get('page.ci_li_5_14')}}</p>
-                                    </li>
+                                    <li class="bold title">{{Lang::get('page.dia_ul_5')}}</li>
+                                    <li class="desc">{{Lang::get('page.dia_li_5')}}</li>
                                 </ul>
                                 <ul>
-                                    <li class="bold title">{{Lang::get('page.ci_ul_6')}}</li>
-                                    <li class="desc">{{Lang::get('page.ci_li_6')}}</li>
+                                    <li class="bold title">{{Lang::get('page.dia_ul_6')}}</li>
+                                    <li class="desc">{{Lang::get('page.dia_li_6')}}</li>
                                 </ul>
                                 <ul>
-                                    <li class="bold title">{{Lang::get('page.ci_ul_7')}}</li>
-                                    <li class="desc">{{Lang::get('page.ci_li_7')}}</li>
-                                </ul>
-                                <ul>
-                                    <li class="bold title">{{Lang::get('page.ci_ul_8')}}</li>
-                                    <li class="desc">{{Lang::get('page.ci_li_8')}}</li>
-                                </ul>
-                                <ul>
-                                    <li class="bold title">{{Lang::get('page.ci_ul_9')}}</li>
-                                    <li class="desc">
-                                        <p{{Lang::get('page.ci_li_9_1')}}></p>
-                                        <p{{Lang::get('page.ci_li_9_2')}}></p>
-                                        <p{{Lang::get('page.ci_li_9_3')}}></p>
-                                        <p{{Lang::get('page.ci_li_9_4')}}></p>
-                                    </li>
+                                    <li class="bold title">{{Lang::get('page.dia_ul_7')}}</li>
+                                    <li class="desc">{{Lang::get('page.dia_li_7')}}</li>
                                 </ul>
                             </div>
                         </div>

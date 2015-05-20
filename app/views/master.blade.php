@@ -20,7 +20,7 @@
 	<!-- Header -->
 	<div id="masthead">
     	<div class="logo">
-        	<a href="{{url('/')}}"><img src="{{asset('images/logo.png')}}" alt="ZENO" /></a>
+        	<a href="{{url('/')}}"><img src="{{asset('images/logo.png')}}" alt="NUCL" /></a>
             <h5 class="slogn">{{Lang::get('page.slogn')}}</h5>
         </div>
         <div class="clear"></div>
@@ -74,8 +74,8 @@
     	<div class="partners">
         	<h5>Products</h5>
             <ul>
-                <li><a href="{{url('nocolordevice/ipad')}}">{{Lang::get('page.nocoloripad')}}</a></li>
-                <li><a href="{{url('nocolordevice/laptop')}}">{{Lang::get('page.nocolorlaptop')}}</a></li>
+                <li><a href="{{url('products/diamond')}}">{{Lang::get('page.scs_diamond')}}</a></li>
+                <li><a href="{{url('products/diamond')}}">{{Lang::get('page.scs_diamond')}}</a></li>
             </ul>
             <div class="clear"></div>
         </div>
