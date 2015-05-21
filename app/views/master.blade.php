@@ -27,16 +27,17 @@
         <div class="navigation">
             <ul id="nav" class="dropdown dropdown-linear dropdown-columnar">
                 <li><a href="{{url('/')}}">{{Lang::get('page.index')}}</a></li>
-                <li><a href="{{url('colordevice')}}">{{Lang::get('page.products')}}</a></li>
+                <li><a href="{{url('products')}}">{{Lang::get('page.products')}}</a></li>
+                <li><a href="{{url('quality')}}">{{Lang::get('page.quality')}}</a></li>
                 <li><a href="{{url('about')}}">{{Lang::get('page.about_us')}}</a></li>
                 <li><a href="{{url('contact')}}">{{Lang::get('page.contact')}}</a></li>
                 <li><a href="{{url('service')}}">{{Lang::get('page.help')}}</a></li>
             </ul>
             <ul class="lang">
             	<li>Language:</li>
-                <li><a href="http://zeno-med.com">English</a></li>
-                <li><a href="http://cn.zeno-med.com">中文</a></li>
-                <li><a href="http://es.zeno-med.com">Español</a></li>
+                <li><a href="/">English</a></li>
+                <li><a href="/">中文</a></li>
+                <li><a href="/">Español</a></li>
             </ul>
         </div>
         <div class="clear"></div>
@@ -84,7 +85,7 @@
             <ul>
                 <li><a href="{{url('service')}}">{{Lang::get('page.help')}}</a></li>
                 <li><a href="{{url('about')}}">{{Lang::get('page.about_us')}}</a></li>
-                <li><a href="{{url('cooperation')}}">{{Lang::get('page.find')}}</a></li>
+                <li><a href="{{url('quality')}}">{{Lang::get('page.quality')}}</a></li>
                 <li><a href="{{url('contact')}}">{{Lang::get('page.contact')}}</a></li>
             </ul>
             <div class="clear"></div>

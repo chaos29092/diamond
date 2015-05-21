@@ -39,6 +39,11 @@ class PageController extends BaseController {
 		return View::make('page.about');
 	}
 
+    public function quality()
+	{
+		return View::make('page.quality');
+	}
+
     public function contact()
 	{
 		return View::make('page.contact');

@@ -17,9 +17,22 @@ return array(
     'promotion_content_1' => '',
     'promotion_content_2' => '15% OFF for now.',
 
-    //aboutus
-    'about_us_1' => 'NUCL Company is  a high-tech company mainly engaged in synthetic diamond and its related products. Being the first class in superabrasive area is our lasting aim. We have scientific management idea, perfect management procedure and excellent team, which guarantee the leading position of our products in this area. We can meet different needs of different clients. Our main products include:',
-    'about_us_2' => 'Synthetic diamond (big size diamond, small size diamond grit, synthetic diamond mono plate, diamond powder)',
+    //about us
+    'ab_1' => 'NUCL Company is a high-tech company mainly engaged in synthetic gem quality diamond, which is used in making jewellery. Being the first class in superabrasive area is our lasting aim. We have scientific management idea, perfect management procedure and excellent team, which guarantee the leading position of our products in this area. We can meet different needs of different clients.',
+    'ab_2' => 'NUCL’s people continually pursue providing the highest quality products, ever improving performance, rapid response to customer needs, timely delivery and value-added service to our customers. is our core value.',
+    'ab_3' => 'Our Guiding Principles:',
+    'ab_4' => 'Top Quality Products',
+    'ab_5' => 'Reliability',
+    'ab_6' => 'Flexibility',
+    'ab_7' => 'Quick Delivery',
+    'ab_8' => 'Value Added Service',
+    'ab_9' => 'Adhering to the motto of "build the business on mutual trust and benefit", we endeavor to help our customers gain a competitive advantage by offering excellent products at a fair price, with value-added service; pursuing win-win with customers.',
+    'ab_10' => 'We welcome customers, business associations and friends from all parts of the world to contact us and seek cooperation for mutual benefits.',
+
+    //quality
+    'qua_1' => 'We are manufacturer and wholesale. We are big supplier in China with technology updated day by day.' ,
+    'qua_2' => 'Now our HPHT synthetic white rough diamond has been much whiter than before. We supply good quality product with very competitive price. ' ,
+    'qua_3' => 'We provide good service, and also welcome all my customer come to china to visit our company and check products by your own eyes.' ,
 
     //mailok
     'message_received' => 'Message Received',
@@ -30,14 +43,12 @@ return array(
     'price_send_1' => 'Price list has been sent, Please check your mailbox',
 
     //master
-    'slogn' => 'Synthetic Single Crystal Diamond',
+    'slogn' => 'SYNTHETIC SINGLE CRYSTAL DIAMOND FOR MAKING JEWELLERY',
     'index' => 'Home',
-    'ucd' => 'Color Doppler',
-    'ubs' => 'Ultrasound B Scanner',
-    'probe' => 'Probe',
     'about_us' => 'About Us',
     'contact' => 'Contact',
     'help' => 'Help',
+    'quality' => 'Quality',
 
     'get_prices' => 'Get Price',
     'your_email_address' => 'your email address',
@@ -86,9 +97,9 @@ return array(
     //diamond products
     'products' => 'Products',
     'diamond' => 'diamond',
-    'scs_diamond' => 'Single Crystal Synthetic Diamond',
-    'quick_detal' => 'Quick Detal',
-
+    'scs_diamond' => 'HPHT synthetic white rough diamond',
+    'product_detal' => 'Product Description',
+    'specifications' => 'Specifications',
 
 
     //products
@@ -108,14 +119,14 @@ return array(
 
     //product - diamond
 
-    'dia_ul_1' => 'Place of Origin',
-    'dia_li_1' => 'Henan, China (Mainland)',
-    'dia_ul_2' => 'Brand Name',
-    'dia_li_2' => 'NUCL',
-    'dia_ul_3' => 'Size',
-    'dia_li_3' => '1.0mm to 4.0mm',
-    'dia_ul_4' => 'Usage',
-    'dia_li_4' => 'jewellery and polishing service',
+    'dia_ul_1' => 'Clarity',
+    'dia_li_1' => 'VS to SI',
+    'dia_ul_2' => 'Color',
+    'dia_li_2' => 'G to K',
+    'dia_ul_3' => 'Hardness',
+    'dia_li_3' => '10',
+    'dia_ul_4' => 'Sizes',
+    'dia_li_4' => '1.0mm to 4.0mm',
     'dia_ul_5' => 'Material',
     'dia_li_5' => 'HPHT synthetic diamond',
     'dia_ul_6' => 'Packaging Details:',
@@ -123,11 +134,7 @@ return array(
     'dia_ul_7' => 'Delivery Detail',
     'dia_li_7' => 'Within 3 days after receive payment',
 
-    'dia_des_1' => 'Clarity: VVS',
-    'dia_des_2' => 'Color is F G H',
-    'dia_des_3' => 'Hardness: 10',
-    'dia_des_4' => 'Sizes: 1.0mm to 4.0mm',
-    'dia_des_5' => 'Good price and polishing service',
-    'dia_des_6' => 'Synthetic diamond is manufactured diamond-like crystals. The manufacturing process is to duplicate the pressure and temperature of the natural diamond-producing environment. The formation process is initiated by forcing a chemical reaction, through adding a catalyst to carbon, and placing the mixture in high-pressure cells. Then, the mixture is cooled and washed with acid, which results in a synthetic diamond.'
+    'dia_des_1' => 'Synthetic diamond is manufactured diamond-like crystals. The manufacturing process is to duplicate the pressure and temperature of the natural diamond-producing environment. The formation process is initiated by forcing a chemical reaction, through adding a catalyst to carbon, and placing the mixture in high-pressure cells. Then, the mixture is cooled and washed with acid, which results in a synthetic diamond.',
+    'dia_des_2' => 'High pressure, high temperature (HPHT) – diamond growth from a melt flux which dissolves carbon at higher temperatures, and the diamonds form on seed crystals in a lower temperature portion of the growth chamber.',
 
 );

@@ -18,16 +18,16 @@
             <div class="big_thumb">
                 <div id="slider2">
                     <div class="contentdiv">
-                        <img src="{{asset('images\products\colorlaptop\colorlaptop_detail_1.jpg')}}" alt="{{Lang::get('page.colorlaptop')}} 1" />
-                        <a rel="example_group" href="{{asset('images\products\colorlaptop\colorlaptop_1.jpg')}}" title="{{Lang::get('page.colorlaptop')}}" class="zoom">&nbsp;</a>
+                        <img src="{{asset('images\products\colorlaptop\colorlaptop_detail_1.jpg')}}" alt="{{Lang::get('page.scs_diamond')}} 1" />
+                        <a rel="example_group" href="{{asset('images\products\colorlaptop\colorlaptop_1.jpg')}}" title="{{Lang::get('page.scs_diamond')}}" class="zoom">&nbsp;</a>
                     </div>
                     <div class="contentdiv">
-                        <img src="{{asset('images\products\colorlaptop\colorlaptop_detail_2.jpg')}}" alt="{{Lang::get('page.colorlaptop')}} 2" />
-                        <a rel="example_group" href="{{asset('images\products\colorlaptop\colorlaptop_2.jpg')}}" title="{{Lang::get('page.colorlaptop')}}" class="zoom">&nbsp;</a>
+                        <img src="{{asset('images\products\colorlaptop\colorlaptop_detail_2.jpg')}}" alt="{{Lang::get('page.scs_diamond')}} 2" />
+                        <a rel="example_group" href="{{asset('images\products\colorlaptop\colorlaptop_2.jpg')}}" title="{{Lang::get('page.scs_diamond')}}" class="zoom">&nbsp;</a>
                     </div>
                     <div class="contentdiv">
-                        <img src="{{asset('images\products\colorlaptop\colorlaptop_detail_3.jpg')}}" alt="{{Lang::get('page.colorlaptop')}} 3" />
-                        <a rel="example_group" href="{{asset('images\products\colorlaptop\colorlaptop_3.jpg')}}" title="{{Lang::get('page.colorlaptop')}}" class="zoom">&nbsp;</a>
+                        <img src="{{asset('images\products\colorlaptop\colorlaptop_detail_3.jpg')}}" alt="{{Lang::get('page.scs_diamond')}} 3" />
+                        <a rel="example_group" href="{{asset('images\products\colorlaptop\colorlaptop_3.jpg')}}" title="{{Lang::get('page.scs_diamond')}}" class="zoom">&nbsp;</a>
                     </div>
 
                 </div>
@@ -83,7 +83,7 @@
                     <div class="tab_container_in">
                         <!-- Recent Articles -->
                         <br/>
-                        <h4>{{Lang::get('page.quick_detal')}}</h4><br />
+                        <h4>{{Lang::get('page.specifications')}}</h4><br />
                         <div id="tab_sidebar_recent" class="tab_sidebar_list">
 
                             <div class="aditional_info">
@@ -119,16 +119,12 @@
                             </div>
                             <div class="clear"></div>
                             <br/><br/>
-                            <h4>{{Lang::get('page.features')}}</h4><br />
+                            <h4>{{Lang::get('page.product_detal')}}</h4><br />
                             <br/>
-                            <p class="des">1. {{Lang::get('page.dia_des_1')}}</p>
-                            <p class="des">2. {{Lang::get('page.dia_des_2')}}</p>
-                            <p class="des">3. {{Lang::get('page.dia_des_3')}}</p>
-                            <p class="des">4. {{Lang::get('page.dia_des_4')}}</p>
-                            <p class="des">5. {{Lang::get('page.dia_des_5')}}</p>
+                            <p>{{Lang::get('page.dia_des_1')}}</p>
                             <br/>
-                            <p class="des">{{Lang::get('page.dia_des_6')}}</p>
-                            <br/>
+                            <p>{{Lang::get('page.dia_des_2')}}</p>
+                            <br/><br/>
                             <img src="{{asset('images\products\colorlaptop\colorlaptop_d_1.jpg')}}" alt="{{Lang::get('page.colorlaptop')}} 1"/>
                             <br/><br/>
                             <img src="{{asset('images\products\colorlaptop\colorlaptop_d_2.jpg')}}" alt="{{Lang::get('page.colorlaptop')}} 2"/>
