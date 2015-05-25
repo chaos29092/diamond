@@ -16,12 +16,10 @@ return array(
     'phone_number_optional' => 'Phone number(optional)',
     'message' => 'Message',
     'cooperation_message' => 'If you want to be our distributor or you have any idea about our cooperation, welcome to contact with us for further information. ',
-    'promotion_content_1' => '',
-    'promotion_content_2' => '15% OFF for now.',
 
     //about us
-    'ab_1' => 'HanvyDiamond Company is a high-tech company mainly engaged in synthetic gem quality diamond, which is used in making jewellery. Being the first class in superabrasive area is our lasting aim. We have scientific management idea, perfect management procedure and excellent team, which guarantee the leading position of our products in this area. We can meet different needs of different clients.',
-    'ab_2' => 'HanvyDiamond’s people continually pursue providing the highest quality products, ever improving performance, rapid response to customer needs, timely delivery and value-added service to our customers. is our core value.',
+    'ab_1' => 'HanvyDiamond Company is a high-tech company mainly engaged in synthetic gem quality diamond, which is used in making jewellery. Being the first class in this area is our lasting aim. We have scientific management idea, perfect management procedure and excellent team, which guarantee the leading position of our products in this area. We can meet different needs of different clients.',
+    'ab_2' => 'HanvyDiamond’s people continually pursue providing the highest quality products, ever improving performance, rapid response to customer needs, timely delivery and value-added service to our customers.',
     'ab_3' => 'Our Guiding Principles:',
     'ab_4' => 'Top Quality Products',
     'ab_5' => 'Reliability',
@@ -38,7 +36,7 @@ return array(
 
     //mailok
     'message_received' => 'Message Received',
-    'message_received_1' => 'We have received your letter, we will respond to you as soon as possible, if urgent matters, please call：xxxxxxxxx',
+    'message_received_1' => 'We have received your letter, we will respond to you as soon as possible, if urgent matters, please call：0371-86068808',
 
     //price send
     'price_send' => 'Price list has been sent',
@@ -64,11 +62,9 @@ return array(
     'down' => 'Download',
     'find' => 'Distributor Cooperation',
     'ship_or_return' => 'Shipping &amp; Returns',
-    'warranty' => 'Product Warranty Info',
 
     //sidemaster
     'category' => 'Category',
-    'parts' => 'Parts',
     'quick_contact' => 'Quick Contact',
 
     //index
@@ -81,7 +77,7 @@ return array(
     'q1' => 'Payment Terms',
     'a1' => 'Bank Transfer , Western Union.',
     'q2' => 'Delivery Time',
-    'a2' => 'According to machine and stock, machine is sent normally 3-5 days after payment received and will cost another 4-5 days for shipping.',
+    'a2' => 'According to the stock, products will be sent normally 3-7 days after payment received and will cost another 3-5 days for shipping.',
     'q3' => 'Transportation',
     'a3' => 'Within 3 to 7 days after receive payment.',
 
@@ -105,8 +101,6 @@ return array(
     'details_and_parameters' => 'Details and Parameters',
     'features' => 'Features',
     'now_promotion' => 'Now Promotions!',
-    'now_promotion_20' => 'Off 20%, Only for March.',
-    'now_promotion_15' => '15% OFF for 3 probes.',
 
     //product - diamond
 
@@ -123,7 +117,7 @@ return array(
     'dia_ul_6' => 'Packaging Details:',
     'dia_li_6' => 'with transparent plastic bag or as your requires',
     'dia_ul_7' => 'Delivery Detail',
-    'dia_li_7' => 'Within 3 days after receive payment',
+    'dia_li_7' => 'Within 3 to 7 days after receive payment',
 
     'dia_des_1' => 'Synthetic diamond is manufactured diamond-like crystals. The manufacturing process is to duplicate the pressure and temperature of the natural diamond-producing environment. The formation process is initiated by forcing a chemical reaction, through adding a catalyst to carbon, and placing the mixture in high-pressure cells. Then, the mixture is cooled and washed with acid, which results in a synthetic diamond.',
     'dia_des_2' => 'High pressure, high temperature (HPHT) – diamond growth from a melt flux which dissolves carbon at higher temperatures, and the diamonds form on seed crystals in a lower temperature portion of the growth chamber.',

@@ -92,11 +92,10 @@
         </div>
         <div class="clear"></div>
         <div class="copyrights">
-        	<p>© 2010 HanvyDiamond. All Rights Reserved</p>
+        	<p>© 2010 {{Lang::get('page.name')}}. All Rights Reserved</p>
             <div class="footer_links">
             	<ul>
                 	<li><a href="{{url('service')}}">{{Lang::get('page.ship_or_return')}}</a></li>
-                    <li class="last"><a href="{{url('service')}}">{{Lang::get('page.warranty')}}</a></li>
                 </ul>
             </div>
         </div>
