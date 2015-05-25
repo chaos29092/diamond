@@ -35,9 +35,9 @@
             </ul>
             <ul class="lang">
             	<li>Language:</li>
-                <li><a href="/">English</a></li>
-                <li><a href="/">中文</a></li>
-                <li><a href="/">русский</a></li>
+                <li><a href="http://en.hanvydiamond.com">English</a></li>
+                <li><a href="http://cn.hanvydiamond.com">中文</a></li>
+                <li><a href="http://ru.hanvydiamond.com">русский</a></li>
             </ul>
         </div>
         <div class="clear"></div>

@@ -7,7 +7,7 @@ return array(
     'get_in_touch' => 'Get in Touch',
     'contact_1' => 'HanvyDiamond welcomes any questions you have about our products or services, and any comments you may wish to make. To do so, please supply the information below and our representative will contact you shortly. ',
     'address' => 'Address',
-    'address_all' => 'Hi-tech Zone, Zhengzhou City, Henan Province, China',
+    'address_all' => 'Changchun Road11, Zhengzhou City, Henan Province,China, 450001',
     'fill_your_inquiry' => 'Please Fill Your Inquiry',
     'your_name' => 'Your name',
     'your_email_address' => 'Your email address',
@@ -20,8 +20,8 @@ return array(
     'promotion_content_2' => '15% OFF for now.',
 
     //about us
-    'ab_1' => 'NUCL Company is a high-tech company mainly engaged in synthetic gem quality diamond, which is used in making jewellery. Being the first class in superabrasive area is our lasting aim. We have scientific management idea, perfect management procedure and excellent team, which guarantee the leading position of our products in this area. We can meet different needs of different clients.',
-    'ab_2' => 'NUCL’s people continually pursue providing the highest quality products, ever improving performance, rapid response to customer needs, timely delivery and value-added service to our customers. is our core value.',
+    'ab_1' => 'HanvyDiamond Company is a high-tech company mainly engaged in synthetic gem quality diamond, which is used in making jewellery. Being the first class in superabrasive area is our lasting aim. We have scientific management idea, perfect management procedure and excellent team, which guarantee the leading position of our products in this area. We can meet different needs of different clients.',
+    'ab_2' => 'HanvyDiamond’s people continually pursue providing the highest quality products, ever improving performance, rapid response to customer needs, timely delivery and value-added service to our customers. is our core value.',
     'ab_3' => 'Our Guiding Principles:',
     'ab_4' => 'Top Quality Products',
     'ab_5' => 'Reliability',
@@ -57,11 +57,6 @@ return array(
     'send' => 'Send',
     'send_prices' => 'By entering your email address, We will send product’s price to you.',
     'payment' => 'FLEXIBLE PAYMENT METHODS',
-    'nocoloripad' => 'Palmsize Diagnostic Ultrasound Scanner',
-    'nocolorlaptop' => 'Laptop Diagnostic Ultrasound Scanner',
-    'colorlaptop' => 'Laptop Ultrasound Color Doppler',
-    'colorportable' => 'Portable Ultrasound Color Doppler',
-    'coloripad' => 'Palmsize Ultrasound Color Doppler',
 
     'contact_now' => 'Contact Now!',
 
@@ -89,12 +84,6 @@ return array(
     'a2' => 'According to machine and stock, machine is sent normally 3-5 days after payment received and will cost another 4-5 days for shipping.',
     'q3' => 'Transportation',
     'a3' => 'Within 3 to 7 days after receive payment.',
-    'q4' => 'Training',
-    'a4' => 'We offer instruction manual, and even video to show you operation.',
-    'q5' => 'OEM',
-    'a5' => 'OEM service. We can produce the machine according to your special need.',
-    'q6' => 'Aftersales Service',
-    'a6' => 'We offer a warranty of 1 year for all equipments. Within 1 year, the customer has the responsibility to provide us video or photos of the damaged equipment, thus our engineer can give relevant suggestions to solve the problem correctly, and send replacement parts to solve the problem. We offer repair in future, with charges on failed parts.',
 
     //diamond products
     'products' => 'Products',

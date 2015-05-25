@@ -52,7 +52,6 @@
                 <div class="quickreview">
                     <h6>{{Lang::get('page.quick_overview')}}</h6>
                     <p>
-                        {{Lang::get('page.cl_qo')}}
                     </p>
                 </div>
                 <div class="addtocart">
@@ -63,7 +62,7 @@
                     <ul>
                         <li class="bold or">OR</li>
                         <li>
-                            <a href="{{url('download')}}" class="add clear">{{Lang::get('page.down_file')}}</a>
+                            <a href="{{url('/')}}" class="add clear">{{Lang::get('page.down_file')}}</a>
                             <a href="{{url('service')}}" class="add clear">{{Lang::get('page.view_help')}}</a>
                         </li>
                     </ul>
