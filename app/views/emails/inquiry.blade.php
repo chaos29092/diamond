@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 	</head>
 	<body>
-		<h2>新的询盘来自ZEN </h2>
+		<h2>新的询盘来自{{Lang::get('page.name')}} </h2>
 
 		<div>
 			<p>询盘内容：</p>

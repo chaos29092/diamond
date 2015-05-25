@@ -1,7 +1,7 @@
 @extends('master_side')
 
 @section('title')
-    ZENO - {{Lang::get('page.find')}}
+    {{Lang::get('page.name')}} - {{Lang::get('page.find')}}
 @stop
 @section('keywords')
     {{Lang::get('page.find')}}
@@ -23,8 +23,9 @@
                 <div class="clear"></div>
                 <br />
                 <p>
-                    <span class="bold">Phone:</span> 18538153651<br /><br/>
-                    <span class="bold">Email:</span> info@zeno-med.com<br />
+                    <span class="bold">Business Manager:</span> Lily<br /><br/>
+                    <span class="bold">Phone:</span> 0371-86068808<br /><br/>
+                    <span class="bold">Email:</span> info@hanvydiamond.com<br />
                 </p>
                 <div class="map">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1638.0889298940936!2d113.5604841521149!3d34.80146690186233!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x4c2944c767ff41c9!2z6YOR5bee6auY5paw5Yy65Yib5Lia5Lit5b-D5LqU5Y-35Zut!5e0!3m2!1szh-CN!2s!4v1425903815557" width="400" height="250" frameborder="0" style="border:0"></iframe>

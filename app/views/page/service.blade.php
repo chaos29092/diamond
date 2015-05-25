@@ -1,7 +1,7 @@
 @extends('master')
 
 @section('title')
-    ZENO - {{Lang::get('page.how_to_buy')}}
+    {{Lang::get('page.name')}} - {{Lang::get('page.how_to_buy')}}
 @stop
 @section('keywords')
     {{Lang::get('page.how_to_buy')}}
@@ -24,15 +24,6 @@
                 <br/>
                 <p><strong>Q: {{Lang::get('page.q3')}}</strong></p>
                 <p>A:  {{Lang::get('page.a3')}}</p>
-                <br/>
-                <p><strong>Q: {{Lang::get('page.q4')}}</strong></p>
-                <p>A: {{Lang::get('page.a4')}}</p>
-                <br/>
-                <p><strong>Q: {{Lang::get('page.q5')}}</strong></p>
-                <p>A: {{Lang::get('page.a5')}}</p>
-                <br/>
-                <p><strong>Q: {{Lang::get('page.q6')}}</strong></p>
-                <p>A: {{Lang::get('page.a6')}}</p>
             </div>
             <div class="clear"></div>
         </div>

@@ -1,7 +1,7 @@
 @extends('master')
 
 @section('title')
-    NUCL - {{Lang::get('page.quality')}}
+    {{Lang::get('page.name')}} - {{Lang::get('page.quality')}}
 @stop
 @section('keywords')
     {{Lang::get('page.quality')}}

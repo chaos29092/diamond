@@ -1,7 +1,7 @@
 @extends('master')
 
 @section('title')
-    NUCL - 404
+    {{Lang::get('page.name')}} - 404
 @stop
 @section('keywords')
 @stop

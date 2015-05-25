@@ -1,9 +1,11 @@
 <?php
 
 return array(
+
+    'name' => 'HanvyDiamond',
     //contact
     'get_in_touch' => 'Get in Touch',
-    'contact_1' => 'NUCL welcomes any questions you have about our products or services, and any comments you may wish to make. To do so, please supply the information below and our representative will contact you shortly. ',
+    'contact_1' => 'HanvyDiamond welcomes any questions you have about our products or services, and any comments you may wish to make. To do so, please supply the information below and our representative will contact you shortly. ',
     'address' => 'Address',
     'address_all' => 'Hi-tech Zone, Zhengzhou City, Henan Province, China',
     'fill_your_inquiry' => 'Please Fill Your Inquiry',
@@ -86,7 +88,7 @@ return array(
     'q2' => 'Delivery Time',
     'a2' => 'According to machine and stock, machine is sent normally 3-5 days after payment received and will cost another 4-5 days for shipping.',
     'q3' => 'Transportation',
-    'a3' => 'Air express. According to the country, can be DHL, TNT, FedEx or EMS. If you have preference for transportation, please let us know.',
+    'a3' => 'Within 3 to 7 days after receive payment.',
     'q4' => 'Training',
     'a4' => 'We offer instruction manual, and even video to show you operation.',
     'q5' => 'OEM',

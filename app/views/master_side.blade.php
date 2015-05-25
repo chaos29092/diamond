@@ -1,7 +1,7 @@
 @extends('master')
 
 @section('title')
-    NUCL
+    {{Lang::get('page.name')}}
 @stop
 @section('keywords')
 
@@ -48,8 +48,9 @@
                             <h5 class="colr">{{Lang::get('page.quick_contact')}}</h5>
                         </div>
                         <p>
-                            <span class="bold">Phone:</span> xxxxx<br />
-                            <span class="bold">Email:</span> info@xxx.com<br />
+                            <span class="bold">Business Manager:</span> Lily<br />
+                            <span class="bold">Phone:</span> 0371-86068808<br />
+                            <span class="bold">Email:</span> info@hanvydiamond.com<br />
                         </p>
                         </div>
                         <div class="clear"></div>

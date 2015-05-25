@@ -1,13 +1,13 @@
 @extends('master')
 
 @section('title')
-    NUCL - {{Lang::get('page.index')}}
+    {{Lang::get('page.name')}} - {{Lang::get('page.index')}}
 @stop
 @section('keywords')
-    {{Lang::get('page.nocoloripad')}}, {{Lang::get('page.coloripad')}}, {{Lang::get('page.colorlaptop')}}, {{Lang::get('page.nocolorlaptop')}}, {{Lang::get('page.colorportable')}}.
+    {{Lang::get('page.name')}}
 @stop
 @section('description')
-    {{Lang::get('page.nocoloripad')}}, {{Lang::get('page.coloripad')}}, {{Lang::get('page.colorlaptop')}}, {{Lang::get('page.nocolorlaptop')}}, {{Lang::get('page.colorportable')}} Manufacturers.
+    {{Lang::get('page.name')}}
 @stop
 
 @section('content')

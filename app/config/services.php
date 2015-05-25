@@ -15,8 +15,8 @@ return array(
 	*/
 
 	'mailgun' => array(
-		'domain' => 'email.zeno-med.com',
-		'secret' => 'key-9d3ff3992743778ef5935d58ff2d55aa',
+		'domain' => 'email1.nucleon-mbh.com',
+		'secret' => 'key-33963e96a62f9d2d75a484208c68a363',
 	),
 
 	'mandrill' => array(

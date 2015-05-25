@@ -20,7 +20,7 @@
 	<!-- Header -->
 	<div id="masthead">
     	<div class="logo">
-        	<a href="{{url('/')}}"><img src="{{asset('images/logo.png')}}" alt="NUCL" /></a>
+        	<a href="{{url('/')}}"><img src="{{asset('images/logo.png')}}" alt="{{Lang::get('page.name')}}" /></a>
             <h5 class="slogn">{{Lang::get('page.slogn')}}</h5>
         </div>
         <div class="clear"></div>
@@ -37,7 +37,7 @@
             	<li>Language:</li>
                 <li><a href="/">English</a></li>
                 <li><a href="/">中文</a></li>
-                <li><a href="/">Español</a></li>
+                <li><a href="/">русский</a></li>
             </ul>
         </div>
         <div class="clear"></div>
@@ -92,7 +92,7 @@
         </div>
         <div class="clear"></div>
         <div class="copyrights">
-        	<p>© 2010 NUCL. All Rights Reserved</p>
+        	<p>© 2010 HanvyDiamond. All Rights Reserved</p>
             <div class="footer_links">
             	<ul>
                 	<li><a href="{{url('service')}}">{{Lang::get('page.ship_or_return')}}</a></li>

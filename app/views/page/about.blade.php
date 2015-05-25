@@ -1,7 +1,7 @@
 @extends('master')
 
 @section('title')
-    ZENO - {{Lang::get('page.about_us')}}
+    {{Lang::get('page.name')}} - {{Lang::get('page.about_us')}}
 @stop
 @section('keywords')
     {{Lang::get('page.about_us')}}

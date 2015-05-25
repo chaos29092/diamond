@@ -1,7 +1,7 @@
 @extends('master')
 
 @section('title')
-    NUCL - {{Lang::get('page.diamond')}}
+    {{Lang::get('page.name')}} - {{Lang::get('page.diamond')}}
 @stop
 @section('keywords')
     {{Lang::get('page.diamond')}}

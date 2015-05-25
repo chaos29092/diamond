@@ -1,7 +1,7 @@
 @extends('master_side')
 
 @section('title')
-    ZENO - {{Lang::get('page.promotion')}}
+    {{Lang::get('page.name')}} - {{Lang::get('page.promotion')}}
 @stop
 @section('keywords')
     {{Lang::get('page.promotion')}}
@@ -21,8 +21,9 @@
                 <div class="clear"></div>
                 <br />
                 <p>
-                    <span class="bold">Phone:</span> 18538153651<br />
-                    <span class="bold">Email:</span> info@zeno-med.com<br />
+                    <span class="bold">Business Manager:</span> Lily<br />
+                    <span class="bold">Phone:</span> 0371-86068808<br />
+                    <span class="bold">Email:</span> info@hanvydiamond.com<br />
                 </p>
 
             </div>

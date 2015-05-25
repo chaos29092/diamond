@@ -1,7 +1,7 @@
 @extends('master_side')
 
 @section('title')
-    NUCL - {{Lang::get('page.scs_diamond')}}
+    {{Lang::get('page.name')}} - {{Lang::get('page.scs_diamond')}}
 @stop
 @section('keywords')
     {{Lang::get('page.scs_diamond')}}

@@ -1,7 +1,7 @@
 @extends('master')
 
 @section('title')
-    ZENO - {{Lang::get('page.message_received')}}
+    {{Lang::get('page.name')}} - {{Lang::get('page.message_received')}}
 @stop
 @section('keywords')
     {{Lang::get('page.message_received')}}
