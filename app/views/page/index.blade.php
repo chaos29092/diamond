@@ -17,9 +17,9 @@
 
         <div class="wrapper">
             <ul>
-                <li><img src="{{asset('images/banner_1.jpg')}}" alt="{{Lang::get('page.nocoloripad')}}" /></li>
-                <li><img src="{{asset('images/banner_2.jpg')}}" alt="{{Lang::get('page.coloripad')}}" /></li>
-                <li><img src="{{asset('images/banner_3.jpg')}}" alt="{{Lang::get('page.colorlaptop')}}" /></li>
+                <li><img src="{{asset('images/banner_1.jpg')}}" alt="{{Lang::get('page.scs_diamond')}} 1" /></li>
+                <li><img src="{{asset('images/banner_2.jpg')}}" alt="{{Lang::get('page.scs_diamond')}} 2" /></li>
+                <li><img src="{{asset('images/banner_3.jpg')}}" alt="{{Lang::get('page.scs_diamond')}} 3" /></li>
             </ul>
         </div>
 
