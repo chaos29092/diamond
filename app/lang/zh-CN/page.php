@@ -7,7 +7,7 @@ return array(
     'get_in_touch' => '联系我们',
     'contact_1' => '关于我们的产品和服务有任何问题，或有任何建议和投诉，请填写下列表格，我们的工作人员将在最短时间内予以答复。',
     'address' => '公司地址',
-    'address_all' => '河南省郑州市高新技术开发区长椿路11号，国家大学科技园研发五号楼A座1506室',
+    'address_all' => '河南省郑州市高新技术开发区长椿路11号',
     'fill_your_inquiry' => '请填写您的询盘',
     'your_name' => '您的姓名',
     'your_email_address' => '您的邮箱地址',

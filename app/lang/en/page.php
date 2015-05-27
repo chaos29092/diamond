@@ -7,7 +7,7 @@ return array(
     'get_in_touch' => 'Get in Touch',
     'contact_1' => 'HanvyDiamond welcomes any questions you have about our products or services, and any comments you may wish to make. To do so, please supply the information below and our representative will contact you shortly. ',
     'address' => 'Address',
-    'address_all' => 'Changchun Road11, Zhengzhou City, Henan Province,China, 450001',
+    'address_all' => 'Changchun Road #11, Zhengzhou City, Henan Province,China, 450001',
     'fill_your_inquiry' => 'Please Fill Your Inquiry',
     'your_name' => 'Your name',
     'your_email_address' => 'Your email address',
