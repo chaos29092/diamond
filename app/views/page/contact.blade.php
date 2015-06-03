@@ -23,7 +23,7 @@
                 <div class="clear"></div>
                 <br />
                 <p>
-                    <span class="bold">Business Manager:</span> Lily<br /><br/>
+                    <span class="bold">Business Manager:</span> Raymond<br /><br/>
                     <span class="bold">Phone:</span> 0371-86068808<br /><br/>
                     <span class="bold">Email:</span> info@hanvydiamond.com<br />
                 </p>
